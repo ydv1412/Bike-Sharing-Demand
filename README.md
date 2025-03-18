@@ -62,9 +62,4 @@ The following models were trained and evaluated:
 - Integrate **real-time weather data** to enhance prediction accuracy.
 - Optimize model hyperparameters for even better performance.
 
----
-
-🔹 **Author**: Shri Prakash Yadav  
-📧 Contact: [Your Email]  
-📌 **Capstone Project - Data Science**
 
